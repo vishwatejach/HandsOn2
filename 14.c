@@ -1,13 +1,12 @@
 /*
 ============================================================================
-Name : 15.c
+Name : 14.c
 Author : Chandanala Vishwateja
-Description : Write a simple program to send some data from parent to the child process.
-                       
+Description : Write a simple program to create a pipe, write to the pipe, read from pipe and display on
+the monitor.
 Date: 15th Oct, 2023.
 ============================================================================
 */
-
 
 
 #include<unistd.h>
@@ -39,3 +38,4 @@ else{ //chlid process
 return 0;
 
 }
+
