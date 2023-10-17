@@ -15,7 +15,7 @@ Date: 15th Oct, 2023.
 #include <unistd.h>    
 #include <stdio.h>     
 
-#include "./hands22a.h" 
+#include "./22a.h" 
 
 void main()
 {
